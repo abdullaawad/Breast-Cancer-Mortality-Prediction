@@ -60,7 +60,7 @@ CategoryTools / LibrariesLanguagePython 3Data Manipulationpandas, NumPyMachine L
 
 Three classification models were implemented and compared:
 
-1._ Logistic Regression (LR)_
+1. _Logistic Regression (LR)_
 
 A linear probabilistic classifier used as the baseline model. Logistic Regression estimates the probability that a patient belongs to a given mortality class, making it interpretable and well-suited for binary classification tasks in healthcare.
 
